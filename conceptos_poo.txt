@@ -1,0 +1,17 @@
+Programacion Orientada a Objetos
+Resumen NO 1 La programacion de objetos es un paradigma o modelo
+a seguir para resolver un problema.
+Tratamos en la clase al inicio de como instalar el programa Git,
+luego se procedió a crear un repositorio creando una carpeta a 
+su vez un blog de notas donde se usó información para el ejemplo
+de creación de dicho repositorio. Se utilizaron los comandos 
+básicos donde se pudo ver que estos comando permiten el manejo 
+para visualizar le documentos,luego se creó el primer commit y a
+su vez el segundo. Después de usar estos comandos ya para final 
+se creó una cuenta en la aplicación GitHub donde ofrece a las 
+personas de computadoras una interfaz gráfica de usuario para las
+acciones de repositorio más comunes y una edición de línea de 
+comando de actualización automática de Git para escenarios 
+avanzados. A pesar del proceso para poder crear y mover un 
+repositorio se analizó ciertos pasos para lograr también compartir 
+dicho repositorio.
